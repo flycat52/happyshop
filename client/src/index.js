@@ -5,8 +5,6 @@ import "./styles/fonts/font-awesome-4.7.0/css/font-awesome.min.css";
 import "./styles/css/util.css";
 import "./styles/css/main.css";
 
-import "./styles/custom.css";
-
 import App from "./components/app.component";
 import * as serviceWorker from "./serviceWorker";
 import { BrowserRouter as Router } from "react-router-dom";
