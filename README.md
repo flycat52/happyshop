@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-This project is implemented using React.js (16.8), Node.js and PostgreSQL.
+This project is implemented using React.js (16.8), Node.js and PostgreSQL.This single page application that is responsive and fit all device screen (e.g. mobile, tablet and web).
 
 To view the functional website: https://happyshopdemo.herokuapp.com/
 
